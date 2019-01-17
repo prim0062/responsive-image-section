@@ -27,6 +27,7 @@ body {
 div {
   padding: 1rem;
   display: inline-block;
+  text-align: left;
 }
 
 h1, p {
@@ -118,7 +119,6 @@ a:hover {
 
   section {
     max-width: 1200px;
-    margin: auto;
     margin: auto;
   }
 
